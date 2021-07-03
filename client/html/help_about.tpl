@@ -10,7 +10,7 @@
 
 <p>Join other fans on <a href="https://discord.gg/htjTj6SuCC" target="_blank">Discord</a>.</p>
 
-<p>This site is hosted by <a href="https://fsnowdin.xyz" target="_blank">fsnowdin</a>. This site was 100% inspired by <a href="https://yumeboo.ru" target="_blank">YumeBooru</a> - the awesome work of <a href="https://twitter.com/hujle_sugary" target="_blank">hujle</a>.</p>
+<p>This site is hosted by <a href="https://fsnowdin.xyz" target="_blank">fsnowdin</a>. This site was 100% inspired by <a href="https://yumeboo.ru" target="_blank">Yumebooru</a> - the awesome work of <a href="https://twitter.com/hujle_sugary" target="_blank">hujle</a>.</p>
 
 <p>The source code for this instance can be found on <a href="https://github.com/fsnowdin/szurubooru" target="_blank">GitHub</a>.</p>
 
