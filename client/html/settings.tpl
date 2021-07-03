@@ -22,14 +22,14 @@
                 }) %>
             </li>
 
-            <!-- <li>
+            <li style="display:none;">
                 <%= ctx.makeCheckbox({
                     text: 'Use dark theme',
                     name: 'dark-theme',
                     checked: ctx.browsingSettings.darkTheme,
                 }) %>
                 <p class='hint'>Changing this setting will require you to refresh the page for it to apply.</p>
-            </li> -->
+            </li>
 
             <li>
                 <%= ctx.makeCheckbox({
