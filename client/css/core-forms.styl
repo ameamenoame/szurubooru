@@ -195,13 +195,15 @@ input[type=number]
     vertical-align: top
     font-family: 'Droid Sans', sans-serif
     font-size: 100%
-    padding: 0.2em 0.3em
+    padding: 0.2em 0.6em
     text-overflow: ellipsis
     width: 100%
     box-sizing: border-box
     border: 2px solid $input-enabled-border-color
     background: $input-enabled-background-color
     color: $input-enabled-text-color
+    border-radius: 15px
+    outline: none
     box-shadow: none /* :-moz-submit-invalid on FF */
     transition: border-color 0.1s linear, background-color 0.1s linear
 
@@ -284,7 +286,7 @@ input[type=submit]
     cursor: pointer
     font-size: 100%
     padding: 0.2em 0.7em
-    border-radius: 0
+    border-radius: 15px
     border: 2px solid $button-enabled-background-color
     background: $button-enabled-background-color
     color: $button-enabled-text-color
@@ -329,6 +331,7 @@ input::-moz-focus-inner
         cursor: pointer
         overflow: hidden
         word-wrap: break-word
+        border-radius: 15px
     .url-holder
         display: flex
         margin-top: 0.5em
