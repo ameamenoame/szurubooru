@@ -1,4 +1,8 @@
-<p class='section'><strong>About</strong></p>
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 80px; text-align:center;">
+	<img src="https://cdn-rpgradio.nyc3.digitaloceanspaces.com/favicon.png" alt="logo" style="max-width:100%;max-height:100%;" />
+</div>
+
+<p class='section' style="text-align:center;"><strong>RPGM Booru</strong></p>
 
 <p>An image board for general RPGMaker media. Art, music, videos are welcome here!</p>
 
