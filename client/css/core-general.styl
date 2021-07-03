@@ -67,7 +67,7 @@ a
         color: $inactive-link-color
         opacity: .5
     &:focus
-        outline: 2px solid $main-color
+        filter:brightness(0.7)
     .vim-nav-hint
         position: absolute
         visibility: hidden
@@ -173,6 +173,18 @@ nav
         ul
             display: block
             text-align: right
+
+            li:first-of-type
+                a
+                    border-top-left-radius: 0
+                    border-bottom-left-radius: 0
+
+            li:last-of-type
+                a
+                    border-top-right-radius: 0
+                    border-bottom-right-radius: 0
+
+
             li
                 display: inline-block
                 float: left

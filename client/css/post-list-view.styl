@@ -159,23 +159,27 @@
         display: none !important
     form
         width: auto
-        margin-bottom: 0.75em
+        margin-bottom: 2em
         *
-            vertical-align: top
+            vertical-align: middle
+            margin: 0 .6em
+
         @media (max-width: 1000px)
             display: block
     input
-        margin-bottom: 0.25em
         margin-right: 0.25em
+        margin-left: 0
     input[name=search-text]
         width: 25em
+        margin-right: .6em
+
         @media (max-width: 1000px)
             display: block
             width: 100%
             margin-bottom: 0.5em
     .append
-        vertical-align: middle
         font-size: 0.95em
+        margin-left: 2em
         color: $inactive-link-color
     .bulk-edit
         &:not(.opened)
@@ -217,7 +221,9 @@
                 margin-left: 0
 
     .safety
-        margin-right: 0.25em
+        margin-right: 0.6em
+        margin-left: 1.2em
+        border-radius: 50%
         &.safety-safe
             background-color: $safety-safe
             border-color: @background-color
