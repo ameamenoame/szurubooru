@@ -6,7 +6,7 @@
 
 <p>An image board for general RPGMaker media. Art, music, videos are welcome here!</p>
 
-<p>Support the site on <a href="https://ko-fi.com/fsnowdin" target="_blank">Ko-fi</a>.</p>
+<p>Support the site on <a href="https://ko-fi.com/fsnowdin" target="_blank">Ko-fi</a>. Seriously. It takes a lot of time and a good amount of money to run this, and I am just one person.</p>
 
 <p>Join other fans on <a href="https://discord.gg/htjTj6SuCC" target="_blank">Discord</a>.</p>
 
