@@ -32,7 +32,7 @@ services:
     build:
       context: ./client
       args:
-        BUILD_INFO: PRODUCTION
+        BUILD_INFO: v1.1.0
     depends_on:
       - server
     environment:
