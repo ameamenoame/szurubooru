@@ -213,13 +213,14 @@ class S3StorageAdapter(StorageAdapter):
             mime = None
            # MIME is not necessary
            # If you don't set it, S3 will return Content-Type application/octet-stream
-            try:
-                img = Image.open(BytesIO(content))
-                mime = Image.MIME.get(img.format)
-            except IOError:
-                pass
+            #try:
+                #img = Image.open(BytesIO(content))
+                #print(img.format)
+                #mime = Image.MIME.get(img.format)
+            #except IOError:
+                #pass
             self.bucket.Object(full_path)\
-                .put(Body=content, ACL='public-read', ContentType=mime)
+                .put(Body=content, ACL='public-read')
         except ClientError:
             logging.exception('s3 save fail (%s)' % full_path)
             return None
