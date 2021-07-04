@@ -25,8 +25,13 @@ RUN apk --no-cache add \
         libavif \
         libheif-dev \
         libavif-dev \
+ && apk add \
+        py3-urllib3 \
+ && pip3 install \
+        urllib3 \
  && pip3 install --no-cache-dir --disable-pip-version-check \
         alembic \
+        boto3 \
         "coloredlogs==5.0" \
         youtube_dl \
         pillow-avif-plugin \
@@ -75,6 +80,7 @@ RUN apk --no-cache add \
  && addgroup -g ${PGID} app \
  && adduser -SDH -h /opt/app -g '' -G app -u ${PUID} app \
  && chown -R app:app /opt/app /data
+
 
 USER app
 CMD ["/opt/app/docker-start.sh"]
