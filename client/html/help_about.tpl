@@ -6,13 +6,13 @@
 
 <p>An image board for general RPGMaker media. Art, music, videos are welcome here!</p>
 
-<p>Support the site on <a href="https://ko-fi.com/fsnowdin" target="_blank">Ko-fi</a>. Seriously. It takes a lot of time and a good amount of money to run this, and I am just one person.</p>
-
-<p>Join other fans on <a href="https://discord.gg/htjTj6SuCC" target="_blank">Discord</a>!</p>
-
 <p>This site is hosted by <a href="https://fsnowdin.xyz" target="_blank">fsnowdin</a>. This site was 100% inspired by <a href="https://yumeboo.ru" target="_blank">Yumebooru</a> - the awesome work of <a href="https://twitter.com/hujle_sugary" target="_blank">hujle</a>.</p>
 
 <p>The source code for this instance can be found on <a href="https://github.com/fsnowdin/szurubooru" target="_blank">GitHub</a>.</p>
+
+<p>Support the site on <a href="https://ko-fi.com/fsnowdin" target="_blank">Ko-fi</a>. Seriously. It takes a lot of time and a good amount of money to run this, and I am just one person.</p>
+
+<p>Join other fans on <a href="https://discord.gg/htjTj6SuCC" target="_blank">Discord</a>!</p>
 
 <p class='section' style="text-align:center;"><strong>Contact</strong></p>
 
