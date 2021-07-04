@@ -2,7 +2,7 @@
     <form class='horizontal'>
         <ul class='input'>
             <li>
-                <%= ctx.makeTextInput({text: 'Search query', id: 'search-text', name: 'search-text', value: ctx.parameters.query}) %>
+                <%= ctx.makeTextInput({text: 'Search query', id: 'search-text', name: 'search-text', placeholder: 'search for user', value: ctx.parameters.query}) %>
             </li>
         </ul>
 
