@@ -10,7 +10,7 @@
 
 <p>The source code for this instance can be found on <a href="https://github.com/fsnowdin/szurubooru" target="_blank">GitHub</a>.</p>
 
-<p>Support the site on <a href="https://ko-fi.com/fsnowdin" target="_blank">Ko-fi</a>. Seriously. It takes a lot of time and a good amount of money to run this, and I am just one person.</p>
+<p>Support the site on <a href="https://ko-fi.com/fsnowdin" target="_blank">Ko-fi</a>. Seriously. It takes a lot of time and a good amount of money to run this, and I am just one person; putting ads on the site is something I don't want to think about, hopefully ever. <strong>A $10 donation will pay for an entire month of hosting for the site</strong>, and if you can't donate but still would like to help, spread the word about the site!</p>
 
 <p>Join other fans on <a href="https://discord.gg/htjTj6SuCC" target="_blank">Discord</a>!</p>
 
