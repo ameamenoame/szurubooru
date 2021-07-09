@@ -8,6 +8,8 @@
 
 <p>This site is hosted by <a href="https://fsnowdin.xyz" target="_blank">fsnowdin</a>. This site was 100% inspired by <a href="https://yumeboo.ru" target="_blank">Yumebooru</a> - the awesome work of <a href="https://twitter.com/hujle_sugary" target="_blank">hujle</a>.</p>
 
+<p>Logo design is by <a href="https://twitter.com/NoteDream1" target="_blank">NoteDream1</a>.</p>
+
 <p>The source code for this instance can be found on <a href="https://github.com/fsnowdin/szurubooru" target="_blank">GitHub</a>.</p>
 
 <p>Support the site on <a href="https://ko-fi.com/fsnowdin" target="_blank">Ko-fi</a>. Seriously. It takes a lot of time and a good amount of money to run this, and I am just one person; putting ads on the site is something I don't want to think about, hopefully ever. <strong>A $10 donation will pay for an entire month of hosting for the site</strong>, and if you can't donate but still would like to help, spread the word about the site!</p>
