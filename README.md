@@ -5,6 +5,13 @@ Gelbooru and Moebooru dedicated for small and medium communities. Its name [has
 its roots in Polish language and has onomatopeic meaning of scraping or
 scrubbing](http://sjp.pwn.pl/sjp/;2527372). It is pronounced as *shoorubooru*.
 
+## RPGM Booru Customizations
+
+- Custom theme.
+- Amazon S3 support for hosting static content.
+- More search providers i.e Yandex, SauceNAO.
+- A basic OpenGraph preview at the moment.
+
 ## Features
 
 - Post content: images (JPG, PNG, GIF, animated GIF), videos (MP4, WEBM), Flash animations
