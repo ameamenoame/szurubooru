@@ -6,6 +6,8 @@
 
 <p>An image board for general RPGMaker media. Art, music, videos are welcome here!</p>
 
+<p>Visit RPGM Booru's sister site: <a href="https://rpgradio.me" target="_blank">RPGM Radio</a>!</p>
+
 <p>This site is hosted by <a href="https://fsnowdin.xyz" target="_blank">fsnowdin</a>. This site was 100% inspired by <a href="https://yumeboo.ru" target="_blank">Yumebooru</a> - the awesome work of <a href="https://twitter.com/hujle_sugary" target="_blank">hujle</a>.</p>
 
 <p>Logo design is by <a href="https://twitter.com/NoteDream1" target="_blank">NoteDream1</a>.</p>
